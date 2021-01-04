@@ -4,7 +4,7 @@ import sys
 
 import telegram.ext as tg
 
-print("haruka")
+print("JK-Manager")
 print("Starting...")
 
 
