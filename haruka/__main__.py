@@ -24,19 +24,18 @@ PM_START = """Hello {}, my name is *{}*!
 
 This Is Bot Specially Designed To Help TeleGram Groups And Helps Person In Jobs They Are Doing !!
 
-*I'm Telegram Group manager bot created  by* [This Awesome Guy](https://t.me/CaptainCrazy)!
+*I'm Telegram Group manager bot created  by* [This Awesome Guy](https://t.me/Darshan_jk)!
 
-Click Help button [Displayed Below](https://t.me/GroupManager_TheBot) to find out "What This Bot Can Do ..
+*Special Thanks to* [Darshan_jk](https://t.me/Darshan_jk) *(Owner - Bot)*
 
-*Special Thanks to* [Crazy Captain](https://t.me/CaptainCrazy) *(Owner - Bot)*
-
-*"Want Any Type Of HELP"* [Join Our Support Team](https://t.me/GroupManager_Support)
+*"Want Any Type Of HELP"* [Ask Owner of the Bot @Darshan_jk]
 
 Want to add me to your group? [Click here!](t.me/GroupManager_TheBot?startgroup=true)
 
 Enjoy Features Of The Bot By Clickig Help Button Below
 
-*This Bot Has Many Special Features Created Just For Your Groups With Extra Features and Support System....*"""
+*This Bot Has Many Special Features Created Just For Your Groups With Extra Features and Support System....*
+*Special Thanks To Nkl Rockers*"""
 
 
 IMPORTED = {}
